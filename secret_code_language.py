@@ -2,7 +2,7 @@ import random
 import string
 
 print("........Secret Code Language Ex..........")
-message = input("Enter your  for Coding or Decoding message: ")
+message = input("Enter your message for Coding or Decoding: ")
 
 # Code for generating 3 random string characters
 letters = string.ascii_letters
